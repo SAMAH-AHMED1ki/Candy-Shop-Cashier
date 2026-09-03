@@ -387,7 +387,7 @@ For the project you chose:
 | `README.md` | Which project, how to build it, and the answer to that project's "explain why" question |
 | Screenshots | Three pictures: the fresh start, one interesting action, and the report page |
 
-Put it in `09_Student_Submissions/Practice_Projects/<Your_Name>/`.
+Put it in `09_Student_Submissions/Practice_Projects/<Samah Ahmed Mahmoud Ahmed>/`.
 
 ---
 
