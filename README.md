@@ -1,5 +1,6 @@
 # Project 3 — Candy Shop Cashier
-
+name : Samah Ahmed Mahmoud Ahmed
+email : sammahmedzz50@gmail.com
 ## Description
 A point-of-sale system for a candy shop that manages inventory, processes customer shopping baskets, merges duplicate item selections, and computes exact change breakdown.
 
